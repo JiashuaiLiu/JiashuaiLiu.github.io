@@ -8,35 +8,23 @@ title: Publications
 
 ## Journal Paper
 
-1. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Liu, et al. μ-Synthesis control with reference model for aeropropulsion system test facility under dynamic coupling and uncertainty. Chinese Journal of Aeronautics, 2023, 36(10): 246–261.</p> 
+<p style="text-align:justify; text-justify:inter-ideograph;">1.   <b>J. Liu</b>, X. Wang, X. Liu, et al. μ-Synthesis control with reference model for aeropropulsion system test facility under dynamic coupling and uncertainty. Chinese Journal of Aeronautics, 2023, 36(10): 246–261.</p> 
 
-2. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Liu, et al. μ-Synthesis-based robust L1 adaptive control for aeropropulsion system test facility. Aerospace Science and Technology, 2023, 140: 108457.</p> 
+<p style="text-align:justify; text-justify:inter-ideograph;">2. <b>J. Liu</b>, X. Wang, X. Liu, et al. μ-Synthesis-based robust L1 adaptive control for aeropropulsion system test facility. Aerospace Science and Technology, 2023, 140: 108457.</p> 
 
-3. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Liu, et al. An anti-windup design with local sector and H2/H∞ optimization for flight environment simulation system. Aerospace Science and Technology, 2022, 128: 107787.</p> 
+<p style="text-align:justify; text-justify:inter-ideograph;"> 3. <b>J. Liu</b>, X. Wang, X. Liu, et al. An anti-windup design with local sector and H2/H∞ optimization for flight environment simulation system. Aerospace Science and Technology, 2022, 128: 107787.</p> 
 
-4. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Pei, et al. Generic modeling method of quasi-one-dimensional flow for aeropropulsion system test facility. Symmetry, 2022, 14(6): 1161.</p> 
+<p style="text-align:justify; text-justify:inter-ideograph;">4. <b>J. Liu</b>, X. Wang, X. Pei, et al. Generic modeling method of quasi-one-dimensional flow for aeropropulsion system test facility. Symmetry, 2022, 14(6): 1161.</p> 
 
-5. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, M. Zhu, et al. Multivariable adaptive control method for turbofan engine with dynamic and input uncertainties. Journal of Engineering for Gas Turbines and Power-Transactions of the ASME, 2021, 143(7): 71027. </p> 
+<p style="text-align:justify; text-justify:inter-ideograph;">5. <b>J. Liu</b>, X. Wang, M. Zhu, et al. Multivariable adaptive control method for turbofan engine with dynamic and input uncertainties. Journal of Engineering for Gas Turbines and Power-Transactions of the ASME, 2021, 143(7): 71027. </p> 
 
-6. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, M. Zhu, et al. Precise pressure control of constant pressure chamber based on control allocation. Journal of Propulsion Technology, 2022, 43(10): 383–391. </p> 
+<p style="text-align:justify; text-justify:inter-ideograph;">6. <b>J. Liu</b>, X. Wang, M. Zhu, et al. Precise pressure control of constant pressure chamber based on control allocation. Journal of Propulsion Technology, 2022, 43(10): 383–391. </p> 
 
-7. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, S. Yang, X. Wang, et al. Open loop-closed loop compound control method for pressure stabilizing chamber based on double-valve control. Journal of Propulsion Technology, 2022, 43(12): 339–346. </p> 
+<p style="text-align:justify; text-justify:inter-ideograph;">7. <b>J. Liu</b>, S. Yang, X. Wang, et al. Open loop-closed loop compound control method for pressure stabilizing chamber based on double-valve control. Journal of Propulsion Technology, 2022, 43(12): 339–346. </p> 
 
-8. <p style="text-align:justify; text-justify:inter-ideograph;"> X. Pei, X. Wang, <b>J. Liu</b>, et al. A Review of Modeling, Simulation, and Control Technologies of Altitude Ground Test Facilities for Control Application[J]. Chinese Journal of Aeronautics, 2023, 36(9): 38–62. </p> 
+<p style="text-align:justify; text-justify:inter-ideograph;"> 8. X. Pei, X. Wang, <b>J. Liu</b>, et al. A Review of Modeling, Simulation, and Control Technologies of Altitude Ground Test Facilities for Control Application[J]. Chinese Journal of Aeronautics, 2023, 36(9): 38–62. </p> 
 
-9. Coming soon! 🚀
-
-<ol>
-        <li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Liu</b>, X. Wang, X. Liu, et al. μ-Synthesis control with reference model for aeropropulsion system test facility under dynamic coupling and uncertainty. Chinese Journal of Aeronautics, 2023, 36(10): 246–261.</p></li>
-    <li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Liu, et al. μ-Synthesis-based robust L1 adaptive control for aeropropulsion system test facility. Aerospace Science and Technology, 2023, 140: 108457.</p> </li>
-        <li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Liu, et al. An anti-windup design with local sector and H2/H∞ optimization for flight environment simulation system. Aerospace Science and Technology, 2022, 128: 107787.</p> </li>
-        <li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Pei, et al. Generic modeling method of quasi-one-dimensional flow for aeropropulsion system test facility. Symmetry, 2022, 14(6): 1161.</p> </li>
-        <li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, M. Zhu, et al. Multivariable adaptive control method for turbofan engine with dynamic and input uncertainties. Journal of Engineering for Gas Turbines and Power-Transactions of the ASME, 2021, 143(7): 71027. </p> </li>
-        <li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, M. Zhu, et al. Precise pressure control of constant pressure chamber based on control allocation. Journal of Propulsion Technology, 2022, 43(10): 383–391.</p> </li>
-        <li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Liu</b>, S. Yang, X. Wang, et al. Open loop-closed loop compound control method for pressure stabilizing chamber based on double-valve control. Journal of Propulsion Technology, 2022, 43(12): 339–346.  </p> </li>
-       <li><p style="text-align:justify; text-justify:inter-ideograph;">X. Pei, X. Wang, <b>J. Liu</b>, et al. A Review of Modeling, Simulation, and Control Technologies of Altitude Ground Test Facilities for Control Application[J]. Chinese Journal of Aeronautics, 2023, 36(9): 38–62.  </p> </li>
-        <li><p style="text-align:justify; text-justify:inter-ideograph;"> Coming soon! 🚀</p> </li>
-</ol>
+<p style="text-align:justify; text-justify:inter-ideograph;">9. Coming soon! 🚀</p>
 
 <br>
 
