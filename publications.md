@@ -6,7 +6,7 @@ title: Publications
 
 > Lastest Update: 30th Jan 2024&nbsp;  
 
-## Journal Paper
+## 📖Journal Paper
 
 * <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Liu, et al. μ-Synthesis control with reference model for aeropropulsion system test facility under dynamic coupling and uncertainty. Chinese Journal of Aeronautics, 2023, 36(10): 246–261.</p> 
 
@@ -28,7 +28,7 @@ title: Publications
 
 <br>
 
-## Conference Paper
+## 📑Conference Paper
 
 * <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, M. Zhu, et al. Multi-Variable adaptive control method for turbofan engine with dynamic and input uncertainties. Proceedings of the ASME Turbo Expo 2020: Turbomachinery Technical Conference and Exposition, Sep. 21–25, 2020, London, UK. <b>(Journal-recommended Paper)</b></p> 
 
@@ -46,7 +46,7 @@ title: Publications
 
 ---
 
-## Patent & Copyright  
+## 📃Patent & Copyright  
 
 * <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, M. Zhu, et al. Two-valve regulation-based precise control method and system for air volume. China Patent: ZL202110762537.1, Jun. 3, 2022.</p> 
 

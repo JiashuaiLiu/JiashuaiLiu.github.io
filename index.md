@@ -12,7 +12,7 @@ layout: page
 
 <br>
 
-## Education
+## 🎓Education
 
 * <p style="text-align:justify; text-justify:inter-ideograph;"> Doctor of Engineering in Aerospace Propulsion Theory and Engineering, Beihang University, 2024</p> 
 
@@ -22,7 +22,7 @@ layout: page
 
 ---
 
-## Interests
+## 💝Interests
 
 - Aero-engine
 - Altitude Ground Test Facility
@@ -40,3 +40,12 @@ layout: page
 - <p style="text-align:justify; text-justify:inter-ideograph;"><b>Jan 2024：</b>My personal website have been implemented and deployed in <a href="https://JiashuaiLiu.github.io">JiashuaiLiu.github.io<a>
 
 <br>
+
+```java
+![](https://github-readme-stats.vercel.app/api?username=JiashuaiLiu&show_icons=true&theme=transparent)
+```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiashuaiLiu&layout=compact&theme=tokyonight)
+
+You are my  ![Visitor Count](https://profile-counter.glitch.me/JiashuaiLiu/count.svg) visitor. Thank you!🌟🌟🌟
+

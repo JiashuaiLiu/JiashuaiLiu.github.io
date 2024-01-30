@@ -6,7 +6,7 @@ title: Awards
 
 > Lastest Update: 30th Jan 2024 &nbsp;
 
-## Honors & Awards
+## 🎖Honors & Awards
 
 - Jan 2024: Outstanding Graduates of Beijing Municipality <br>
 - Dec 2023: Siwei Power Scholarship  <br>
@@ -20,13 +20,13 @@ title: Awards
 - Jun 2018: Outstanding Graduates of Northwestern Polytechnical University   <br>
 - Coming soon! 🚀 
 
-## Competitions
+## 🏆Competitions
 
 - <p style="text-align:justify; text-justify:inter-ideograph;">2023: Cooperative Control Design of Variable Cycle Engine Regulation Mechanism Based on Shape Memory Alloy, Third Prize in “University Students' Energy Saving Competition of Beijing Municipality” and “Feng Ru Cup Competition of Beihang University” . <b>(Undergraduate Research Guidance)</b>  </p>
 
 - Coming soon! 🚀
 
-## Services
+## 🧑‍🎨Services
 
 - Coming soon! 🚀
 
