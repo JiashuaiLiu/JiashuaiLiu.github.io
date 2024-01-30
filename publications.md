@@ -34,13 +34,13 @@ title: Publications
 
 2. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Pei, et al. Research of Modeling and simulation study for air piping system of test bed. Proceedings of the Aero-engine Altitude Simulation Test Technology, Aug. 25–27, 2020, Mianyang, China. <b>(Outstanding Paper)</b></p> 
 
-2. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, S. Yang, et al. Design of servo and anti-interference control of electro-hydraulic actuator system. Proceedings of the Fifth Joint Conference on Aerospace Propulsion, Sep. 16–19, 2020, Nanjing, China.<b>(Outstanding Paper)</b></p> 
+3. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, S. Yang, et al. Design of servo and anti-interference control of electro-hydraulic actuator system. Proceedings of the Fifth Joint Conference on Aerospace Propulsion, Sep. 16–19, 2020, Nanjing, China.<b>(Outstanding Paper)</b></p>
 
-3. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, M. Zhu, et al. MRAC-based aero-engine control research. Proceedings of the Fourth Joint Conference of Aerospace Propulsion, Aug. 14–17, 2019, Kunming, China.</p> 
+4. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, M. Zhu, et al. MRAC-based aero-engine control research. Proceedings of the Fourth Joint Conference of Aerospace Propulsion, Aug. 14–17, 2019, Kunming, China.</p> 
 
-4. <p style="text-align:justify; text-justify:inter-ideograph;"> Z. Jiang, X. Wang, S. Yang, <b>J. Liu</b>, et al. Representation of components characteristics under performance degradation of gas turbine engine. Proceedings of the ASME Turbo Expo 2022: Turbomachinery Technical Conference and Exposition, Jun. 13–17, 2022, Rotterdam, Netherlands.</p> 
+5.  <p style="text-align:justify; text-justify:inter-ideograph;"> Z. Jiang, X. Wang, S. Yang, <b>J. Liu</b>, et al. Representation of components characteristics under performance degradation of gas turbine engine. Proceedings of the ASME Turbo Expo 2022: Turbomachinery Technical Conference and Exposition, Jun. 13–17, 2022, Rotterdam, Netherlands.</p> 
 
-5. Coming soon! 🚀
+6. Coming soon! 🚀
 
 <br>
 
@@ -53,6 +53,8 @@ title: Publications
 2. <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, S. Zhang, et al. Quasi-one-dimensional flow modeling toolbox software for piping systems (Educational version). China Software Copyright: 2022SR0553246, Apr. 29, 2022.</p> 
 
 3. <p style="text-align:justify; text-justify:inter-ideograph;"> X. Pei, M. Zhu, S. Zhang, <b>J. Liu</b>, et al. Calculation method and system for aerodynamic characteristics of air pipeline systems in Altitude Ground Test Facility.  China Patent: ZL202110570590.1, May. 20, 2022.</p> 
+
+4. Coming soon! 🚀
 
 <br>
 
