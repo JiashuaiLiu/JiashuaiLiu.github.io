@@ -26,6 +26,18 @@ title: Publications
 
 9. Coming soon! 🚀
 
+<ol>
+        <li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Liu</b>, X. Wang, X. Liu, et al. μ-Synthesis control with reference model for aeropropulsion system test facility under dynamic coupling and uncertainty. Chinese Journal of Aeronautics, 2023, 36(10): 246–261.</p></li>
+    <li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Liu, et al. μ-Synthesis-based robust L1 adaptive control for aeropropulsion system test facility. Aerospace Science and Technology, 2023, 140: 108457.</p> </li>
+        <li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Liu, et al. An anti-windup design with local sector and H2/H∞ optimization for flight environment simulation system. Aerospace Science and Technology, 2022, 128: 107787.</p> </li>
+        <li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, X. Pei, et al. Generic modeling method of quasi-one-dimensional flow for aeropropulsion system test facility. Symmetry, 2022, 14(6): 1161.</p> </li>
+        <li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, M. Zhu, et al. Multivariable adaptive control method for turbofan engine with dynamic and input uncertainties. Journal of Engineering for Gas Turbines and Power-Transactions of the ASME, 2021, 143(7): 71027. </p> </li>
+        <li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu</b>, X. Wang, M. Zhu, et al. Precise pressure control of constant pressure chamber based on control allocation. Journal of Propulsion Technology, 2022, 43(10): 383–391.</p> </li>
+        <li><p style="text-align:justify; text-justify:inter-ideograph;"><b>J. Liu</b>, S. Yang, X. Wang, et al. Open loop-closed loop compound control method for pressure stabilizing chamber based on double-valve control. Journal of Propulsion Technology, 2022, 43(12): 339–346.  </p> </li>
+       <li><p style="text-align:justify; text-justify:inter-ideograph;">X. Pei, X. Wang, <b>J. Liu</b>, et al. A Review of Modeling, Simulation, and Control Technologies of Altitude Ground Test Facilities for Control Application[J]. Chinese Journal of Aeronautics, 2023, 36(9): 38–62.  </p> </li>
+        <li><p style="text-align:justify; text-justify:inter-ideograph;"> Coming soon! 🚀</p> </li>
+</ol>
+
 <br>
 
 ## Conference Paper
