@@ -35,7 +35,7 @@ layout: page
 
 ---
 
-## News
+## 🔥News
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><b>Jan 2024：</b>My personal website have been implemented and deployed in <a href="https://JiashuaiLiu.github.io">JiashuaiLiu.github.io<a>
 
