@@ -4,11 +4,13 @@ layout: page
 
 # Jiashuai Liu
 
-<p style="text-align:justify; text-justify:inter-ideograph;"></p>
+<p style="text-align:justify; text-justify:inter-ideograph;">  </p>
 
 <p style="text-indent: 2em; text-align:justify; text-justify:inter-ideograph;">	I am a  postdoctoral fellow at Institute for Aero Engine, Tsinghua University, China. My research focus is on  modeling, simulation, and control of the aero-engine and Altitude Ground Test Facility.</p>
 
 <p style="text-indent: 2em;text-align:justify; text-justify:inter-ideograph;">	On this website I present some of my scientific research and write about things that I find interesting.</p>
+
+​       🌟🌟🌟
 
 <br>
 
@@ -41,11 +43,9 @@ layout: page
 
 <br>
 
-```java
-![](https://github-readme-stats.vercel.app/api?username=JiashuaiLiu&show_icons=true&theme=transparent)
-```
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiashuaiLiu&layout=compact&theme=tokyonight)
 
-You are my  ![Visitor Count](https://profile-counter.glitch.me/JiashuaiLiu/count.svg) visitor. Thank you!🌟🌟🌟
+You are my  ![Visitor Count](https://profile-counter.glitch.me/JiashuaiLiu/count.svg) visitor. Thank you!
+
+
 
