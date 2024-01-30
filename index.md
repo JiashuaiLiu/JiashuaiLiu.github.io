@@ -5,7 +5,7 @@ layout: page
 # Jiashuai Liu
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-    I am a  postdoctoral fellow at Institute for Aero Engine, Tsinghua University, China. My research focus is on  modeling, simulation, and control of the aero-engine and Altitude Ground Test Facility.</p>
+<p{text-indent: 2em;}> I am a  postdoctoral fellow at Institute for Aero Engine, Tsinghua University, China. My research focus is on  modeling, simulation, and control of the aero-engine and Altitude Ground Test Facility.</p>
 
 <p style="text-align:justify; text-justify:inter-ideograph;">On this website I present some of my scientific research and write about things that I find interesting.</p>
 
@@ -32,7 +32,7 @@ layout: page
 
 ---
 
-## News and Updates
+## News
 
 - <p style="text-align:justify; text-justify:inter-ideograph;"><b>Jan 2024：</b>My personal website have been implemented and deployed in <a href="https://JiashuaiLiu.github.io">JiashuaiLiu.github.io<a>
 
