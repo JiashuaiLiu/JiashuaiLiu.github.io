@@ -10,9 +10,9 @@ On this website I present some of my scientific research and write about things 
 
 ## Education
 
-:mortar_board: Doctor of Engineering in Aerospace Propulsion Theory and Engineering, Beihang University, 2024 
+* Doctor of Engineering in Aerospace Propulsion Theory and Engineering, Beihang University, 2024 
 
-:mortar_board: Bachelor of Engineering in Automation, Northwestern Polytechnical University, 2018
+* Bachelor of Engineering in Automation, Northwestern Polytechnical University, 2018
 
 <br>
 
