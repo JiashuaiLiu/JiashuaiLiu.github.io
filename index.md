@@ -10,9 +10,11 @@ layout: page
 
 <p style="text-align:justify; text-justify:inter-ideograph;">On this website I present some of my scientific research and write about things that I find interesting.</p>
 
+<br>
+
 ## Education
 
-* <p style="text-align:justify; text-justify:inter-ideograph;">Doctor of Engineering in Aerospace Propulsion Theory and Engineering, Beihang University, 2024 
+* <p style="text-align:justify; text-justify:inter-ideograph;"> <b>J. Liu, X. Wang, X. Liu, et al. μ-Synthesis control with reference model for aeropropulsion system test facility under dynamic coupling and uncertainty. Chinese Journal of Aeronautics, 2023, 36(10): 246–261.</p> 
 
 * <p style="text-align:justify; text-justify:inter-ideograph;">Bachelor of Engineering in Automation, Northwestern Polytechnical University, 2018</p>
 
